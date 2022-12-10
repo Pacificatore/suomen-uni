@@ -14,7 +14,7 @@
                 <img src="images/Suomen-uni-3_02.png" width="248" height="165" alt="">
             </td>
             <td colspan="4">
-                <a href="index.html"><img src="images/Suomen-uni-3_03.png" width="360" height="52"
+                <a href="index.php"><img src="images/Suomen-uni-3_03.png" width="360" height="52"
                         alt="Aller vers l'accueil"></a>
             </td>
             <td colspan="4" rowspan="2">
@@ -37,9 +37,9 @@
                 <img src="images/Suomen-uni-3_06.png" width="139" height="617" alt="">
             </td>
             <td colspan="2">
-                <a href="index.html"><img src="images/Accueil.png" width="125" height="23" alt=""></a>
+                <a href="index.php"><img src="images/Accueil.png" width="125" height="23" alt=""></a>
             </td>
-            <td><a href="cours.html"><img src="images/Suomen-uni-3_08.png" width="127" height="23" alt="Cours"></a></td>
+            <td><a href="cours.php"><img src="images/Suomen-uni-3_08.png" width="127" height="23" alt="Cours"></a></td>
             <td>
                 <a href="tableaux.html"><img src="images/tableaux.png" width="132" height="23" alt="Tableaux"></a>
             </td>
