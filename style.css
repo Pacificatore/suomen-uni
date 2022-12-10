@@ -1,26 +1,36 @@
-
-
 body {
-	
+
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 	color: #323259;
 	font-size: 14px;
 	line-height: 18px;
-	background-image:url(Aurore.jpg);
+	background-image: url(images/Aurore.jpg);
 }
 
-h1,h2,h3,h4,h5,h6 {
-color:#224274;
-text-align:center;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	color: #224274;
+	text-align: center;
 }
 
-#content h1, h2, h3, h4, h5, h6 {
-color: #224274;
-margin: 0 0 20px 0;
-line-height: 1.5em;
+#content h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	color: #224274;
+	margin: 0 0 20px 0;
+	line-height: 1.5em;
 }
 
-body,td,th {
+body,
+td,
+th {
 	color: #000000;
 }
 
@@ -28,17 +38,18 @@ body,td,th {
 
 /* Classes de liens */
 a {
-  text-decoration:none;
-  color:#069;
+	text-decoration: none;
+	color: #069;
 }
+
 a:visited {
-  color:#033751;
+	color: #033751;
 }
 
 a:hover {
-	text-decoration:underline;
-	
-	
+	text-decoration: underline;
+
+
 }
 
 
@@ -46,32 +57,31 @@ a:hover {
 /* Classes de textes */
 
 
-p { 
-  text-indent:2em; 
-  text-align: justify;
-  font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+p {
+	text-indent: 2em;
+	text-align: justify;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 
 u {
-	text-decoration:underline;
-	
+	text-decoration: underline;
+
 }
 
 
 /* Désinence */
 des {
-	color:#900;
-	font-style:italic;
+	color: #900;
+	font-style: italic;
 }
 
 caption {
-	color:#039;
-	text-align:center;
-	
+	color: #039;
+	text-align: center;
+
 }
 
 pageup {
-	color:#069;
-	text-align:center;
+	color: #069;
+	text-align: center;
 }
-
