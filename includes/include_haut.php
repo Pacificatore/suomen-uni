@@ -70,5 +70,5 @@
 
 
 
-            <td colspan="7" rowspan="4" align="left" valign="top" background="images/Suomen-uni-3_14.png">
+            <td colspan="7" rowspan="4" align="left" valign="top" background="images/Background_content.png">
                 <div style="width:627; height:687; overflow: auto;">
