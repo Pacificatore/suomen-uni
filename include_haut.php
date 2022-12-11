@@ -14,7 +14,7 @@
                 <img src="images/Suomen-uni-3_02.png" width="248" height="165" alt="">
             </td>
             <td colspan="4">
-                <a href="index.php"><img src="images/Suomen-uni-3_03.png" width="360" height="52"
+                <a href="index.php"><img src="images/Suomen_uni_titre.png" width="360" height="52"
                         alt="Aller vers l'accueil"></a>
             </td>
             <td colspan="4" rowspan="2">
@@ -39,15 +39,13 @@
             <td colspan="2">
                 <a href="index.php"><img src="images/Accueil.png" width="125" height="23" alt=""></a>
             </td>
-            <td><a href="cours.php"><img src="images/Suomen-uni-3_08.png" width="127" height="23" alt="Cours"></a></td>
+            <td><a href="cours.php"><img src="images/Cours.png" width="127" height="23" alt="Cours"></a></td>
             <td>
                 <a href="tableaux.php"><img src="images/tableaux.png" width="132" height="23" alt="Tableaux"></a>
             </td>
-            <td colspan="2"><a href="tests.html"><img src="images/Suomen-uni-3_10.png" width="134" height="23"
-                        alt=""></a></td>
+            <td colspan="2"><a href="tests.html"><img src="images/Tests.png" width="134" height="23" alt=""></a></td>
             <td colspan="2">
-                <!--<a href="inscription.php">--><img src="images/Suomen-uni-3_11.png" width="137" height="23"
-                    alt=""></a>
+                <!--<a href="inscription.php">--><img src="images/Inscription.png" width="137" height="23" alt=""></a>
             </td>
             <td rowspan="8">
                 <img src="images/Suomen-uni-3_12.png" width="6" height="804" alt="">

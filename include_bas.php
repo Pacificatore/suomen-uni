@@ -37,7 +37,7 @@
 </tr>
 <tr>
     <td colspan="7" rowspan="2">
-        <img src="images/Suomen-uni-3_21.png" width="627" height="60" alt="">
+        <img src="images/Footer.png" width="627" height="60" alt="">
     </td>
     <td>
         <img src="images/spacer.gif" width="1" height="12" alt="">
