@@ -43,7 +43,7 @@
             <td>
                 <a href="tableaux.php"><img src="images/tableaux.png" width="132" height="23" alt="Tableaux"></a>
             </td>
-            <td colspan="2"><a href="tests.html"><img src="images/Tests.png" width="134" height="23" alt=""></a></td>
+            <td colspan="2"><a href="tests.php"><img src="images/Tests.png" width="134" height="23" alt=""></a></td>
             <td colspan="2">
                 <!--<a href="inscription.php">--><img src="images/Inscription.png" width="137" height="23" alt=""></a>
             </td>

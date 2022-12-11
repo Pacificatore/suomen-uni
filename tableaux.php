@@ -8,7 +8,7 @@
 
 
 </head>
-<?php include('include_haut.php'); ?>
+<?php include('includes/include_haut.php'); ?>
 
 <p>
 <h3> Tableaux récapitulatifs </h3>
@@ -20,4 +20,4 @@
 
 
 
-<?php include('include_bas.php'); ?>
+<?php include('includes/include_bas.php'); ?>

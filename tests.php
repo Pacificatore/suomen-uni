@@ -43,7 +43,7 @@
     </style>
 </head>
 
-<?php include('include_haut.php'); ?>
+<?php include('includes/include_haut.php'); ?>
 <center>
     <h2>Liste des tests:</h2>
 </center>
@@ -75,4 +75,4 @@
 </div>
 </td>
 
-<?php include('include_bas.php'); ?>
+<?php include('includes/include_bas.php'); ?>

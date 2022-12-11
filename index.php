@@ -10,7 +10,7 @@
 </head>
 
 
-<?php include('include_haut.php'); ?>
+<?php include('includes/include_haut.php'); ?>
 <p>
 <h3> Bienvenue! Tervetuloa kaikille!</h3>
 </p>
@@ -43,4 +43,4 @@
 </div>
 </td>
 
-<?php include('include_bas.php'); ?>
+<?php include('includes/include_bas.php'); ?>
