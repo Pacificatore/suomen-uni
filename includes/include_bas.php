@@ -1,3 +1,4 @@
+<!-- Includes haut et bas car le contenu se trouve entre les deux-->
 <td rowspan="6">
     <img src="images/Suomen-uni-3_15.png" width="28" height="747" alt="">
 </td>

@@ -1,3 +1,5 @@
+<!-- Includes haut et bas car le contenu se trouve entre les deux-->
+
 <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
     <!-- Save for Web Slices (Suomen uni 3.psd) -->
     <table width="801" height="1001" border="0" align="center" cellpadding="0" cellspacing="0" id="Tableau_01">

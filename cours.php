@@ -16,12 +16,12 @@
 </p>
 
 <ul>
-    <li><a href="le finnois une langue difficile.html">Le Finnois, une langue difficile?</a></li>
-    <li><a href="pronoms_ personnels_ finnois.html">Les pronoms personnels Finnois</a></li>
-    <li> <a href="introduction_verbes.html"> Introductions aux verbes finnois </a></li>
-    <li> <a href="verbe_premier_groupe.html"> Les verbes du premier groupe</a></li>
-    <li><a href="Le_verbe_auxilliaire_olla.html">Le Verbe-Auxiliaire Olla ~ être</a></li>
-    <li> <a href="verbe_deuxieme_groupe.html"> Les verbes du deuxiême groupe</a></li>
+    <li><a href="cours/le finnois une langue difficile.html">Le Finnois, une langue difficile?</a></li>
+    <li><a href="cours/pronoms_ personnels_ finnois.html">Les pronoms personnels Finnois</a></li>
+    <li><a href="cours/introduction_verbes.html"> Introductions aux verbes finnois </a></li>
+    <li><a href="cours/verbe_premier_groupe.html"> Les verbes du premier groupe</a></li>
+    <li><a href="cours/Le_verbe_auxilliaire_olla.html">Le Verbe-Auxiliaire Olla ~ être</a></li>
+    <li><a href="cours/verbe_deuxieme_groupe.html"> Les verbes du deuxiême groupe</a></li>
 
     <li><a href="harmonie vocalique.html">L'Harmonie Vocalique</a></li>
 
@@ -33,7 +33,7 @@
 
 <p>
     <center>
-        <h2> <a href="index.html"> Retour</a> </h2>
+        <h3> <a href="index.php"> Retour</a> </h3>
     </center>
 </p>
 </div>
